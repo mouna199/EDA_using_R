@@ -1,4 +1,4 @@
-#Red Wine Exploratory Data Analysis
+# Red Wine Exploratory Data Analysis
 
 In this project, we investigate a data of red wine, to see what variables influences the quality. 
 
